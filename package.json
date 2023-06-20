@@ -10,7 +10,7 @@
     "William Blankenship <wblankenship@nodesource.com.com> (http://blankenship.io/)"
   ],
   "dependencies": {
-    "pg": "^4.4.1",
+    "pg": "^8.4.0",
     "retry": "^0.7.0"
   }
 }
